@@ -12,7 +12,7 @@ My Andrew McKenzie, I am a student at Brigham Young University-Idaho, interested
 
 ## Technologies and Tools
 - Familiar with: C#, C++, Python, IT, HTML, CSS
-- Skills: Speak and write Norwegian and Finnish. 
+- Skills: Norwegian, Finnish. 
 
 ## Contact Info
 - [LinkedIn](https://www.linkedin.com/in/andrew-mckenzie-9a8188243/)
