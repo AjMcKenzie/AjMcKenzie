@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 My Andrew McKenzie, I am a student at Brigham Young University-Idaho, interested in computer science and cybersecurity. 
 
 ## About Me
@@ -6,8 +6,6 @@ My Andrew McKenzie, I am a student at Brigham Young University-Idaho, interested
     - D&D
     - MTG
     - Video games
-    - Anime
-    - Comic books
 - A goal that I have is to be a cybersecurity specialist, specifically a pen tester or red team.
 
 ## Technologies and Tools
